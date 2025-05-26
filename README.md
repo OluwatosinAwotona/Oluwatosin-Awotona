@@ -1,4 +1,4 @@
-# Hi, I'm Oluwatosin Awotona
+# Hi, I'm Oluwatosin Osho
 
 I'm an aspiring **Cloud & DevOps Engineer** with a background in data analysis. I'm currently learning AWS, Linux, Git, Terraform, and DevOps tools while documenting my journey publicly under the `#FromZeroToCloud` movement.
 
@@ -16,7 +16,7 @@ I'm an aspiring **Cloud & DevOps Engineer** with a background in data analysis. 
 
 ### 🧠 Building In Public
 Follow my journey on:
-- [LinkedIn](www.linkedin.com/in/awotona-oluwatosin-b5485b173)
+- [LinkedIn](www.linkedin.com/in/oluwatosin-osho-b5485b173)
 - [Twitter](https://twitter.com/FromZeroToCloud)
 - [GitHub Labs](https://github.com/oluwatosinosho)
 
